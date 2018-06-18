@@ -35,10 +35,10 @@ body {
 }
 .display-4 {
   font-family: 'Poppins', sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.12rem;
+  font-size: 0.96rem;
 }
 .display-5 {
   font-family: 'Poppins', sans-serif;
@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Poppins', sans-serif;
-  font-size: 0.5rem;
+  font-size: 0.7rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 0.8rem;
+  font-size: 1.12rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -71,9 +71,9 @@ body {
     line-height: calc( 1.4 * (0.895rem + (0.7 - 0.895) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.56rem;
-    font-size: calc( 0.895rem + (0.7 - 0.895) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.895rem + (0.7 - 0.895) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.48rem;
+    font-size: calc( 0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.96rem;
@@ -640,13 +640,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Poppins', sans-serif;
-  font-size: 0.5rem;
+  font-size: 0.7rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 0.8rem;
+  font-size: 1.12rem;
 }
 .form-control,
 .form-control:focus {
