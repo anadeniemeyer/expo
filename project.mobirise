@@ -24,8 +24,8 @@
         "display4Font": "Poppins",
         "display4Size": "0.7",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#de0a0a",
