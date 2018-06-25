@@ -23,7 +23,7 @@
         "display7Size": "0.7",
         "display4Font": "Poppins",
         "display4Size": "0.7",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
@@ -81,7 +81,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logopng-128x123.png",
